@@ -4,4 +4,6 @@ The Note Taking Application is a C# console Application embedded with the functi
 
 This is practically a personal project that employs the basic fundamentals of C# like Classes, user input, Reading and writing to console, error and exception handling, Reading and Writing fro/to a json file.
 
+The Console Application is also embedded to log all the activities of each users in a log file with basic log time, activity and userid.
+
 Feel free to engage for further enhancement.
